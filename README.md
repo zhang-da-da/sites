@@ -10,7 +10,7 @@
 [我的小书屋](http://mebook.cc/) [readfree](https://readfree.me/)
 ## 在线工具
 ### RSS
-[Feed43：将网页转换为专业的RSS源](https://feed43.com/) [FeedEx.Net](https://feedex.net/) []() []()
+[Feed43：将网页转换为专业的RSS源](https://feed43.com/) [FeedEx.Net](https://feedex.net/) [WhereMyLife: Kindle RSS 订阅文章推送](https://wheremylife.cn/) []()
 
 
 
