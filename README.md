@@ -10,7 +10,7 @@
 [我的小书屋](http://mebook.cc/) [readfree](https://readfree.me/)
 ## 在线工具
 ### RSS
-[Feed43：将网页转换为专业的RSS源](https://feed43.com/) [FeedEx.Net](https://feedex.net/) [WhereMyLife: Kindle RSS 订阅文章推送](https://wheremylife.cn/) []()
+[Feed43：将网页转换为专业的RSS源](https://feed43.com/) [FeedEx.Net](https://feedex.net/) [WhereMyLife: Kindle RSS 订阅文章推送](https://wheremylife.cn/) [可视化生成RSS](https://fetchrss.com/) []() []()
 ## 在线影视
 [iMovie4U電影線上看](https://www.imovie4u.com/) [ebb.io :: 动漫新番线上看](https://ebb.io/) [奈菲影视](https://nfmovies.com/) []() []()
 
