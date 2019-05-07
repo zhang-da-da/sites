@@ -13,6 +13,8 @@
 [忧郁的luoli](https://www.mmgal.com) [PinnPinn](http://www.pinnpinn.com/) [2DFan](https://www.2dfan.com/) []() []()
 ### 本子下载
 [nhentai](https://nhentai.net/) [紳士漫畫](https://www.wnacg.org) [喵紳士](https://nyahentai.github.io/) []() []()
+### AV下载
+[JAV HD质量](http://maxjav.com/) []() []() []()
 ## 繁体站点
 ### 综合
 [松鼠症倉庫](https://ahri.club) []() []() []() []()
