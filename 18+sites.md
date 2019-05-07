@@ -38,4 +38,6 @@
 [色花堂](https://www.sehuatang.org/) []() []() []()
 ## 工具
 [番号中文字幕下载](http://www.53zimu.com/) []() []() []() []()
+## 小说
+[第一版主网](http://01bz.nideh.com/) []() []()
  
