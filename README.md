@@ -11,7 +11,8 @@
 ## 在线工具
 ### RSS
 [Feed43：将网页转换为专业的RSS源](https://feed43.com/) [FeedEx.Net](https://feedex.net/) [WhereMyLife: Kindle RSS 订阅文章推送](https://wheremylife.cn/) []()
-
+## 在线影视
+[iMovie4U電影線上看](https://www.imovie4u.com/) [ebb.io :: 动漫新番线上看](https://ebb.io/) []() []() []()
 
 
 
