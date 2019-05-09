@@ -14,5 +14,5 @@
 ## 在线影视
 [iMovie4U電影線上看](https://www.imovie4u.com/) [ebb.io :: 动漫新番线上看](https://ebb.io/) [奈菲影视](https://nfmovies.com/) []() []()
 ## 网盘资源
-[皮皮虾资源 | 一个网盘资源分享的站点](https://bdy.ppxzy.com/ "hu")  
+[皮皮虾资源 ](https://bdy.ppxzy.com/ "整季剧集资源")  
  
